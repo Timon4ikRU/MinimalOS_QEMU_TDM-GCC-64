@@ -37,6 +37,7 @@ void play_melody(void) {
 }
 
 void init_registry(void) {
+    // Some ugly sh#t going on here. Beware.
     sound_set_enabled(1);
 
     fat_cd("sys");
