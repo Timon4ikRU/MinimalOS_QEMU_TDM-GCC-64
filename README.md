@@ -1,3 +1,5 @@
+**!!!CHANGE PATH TO QEMU IN BUILD.BAT FIRST!!!**
+
 # 🖥️ Bare-Metal Operating System
 
 A custom 32-bit operating system written from scratch in **C** and **Assembly** for the x86 architecture. Designed to run directly on bare-metal hardware or inside emulators such as QEMU.
